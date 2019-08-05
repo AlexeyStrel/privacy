@@ -1,4 +1,3 @@
-# privacy
 # Privacy Policy
 # Alexey Strelkovskikh built the Таджико-Русско-Узбекский переводчик app as a Free app. This SERVICE is provided by Alexey Strelkovskikh at no cost and is intended for use as is.
 
